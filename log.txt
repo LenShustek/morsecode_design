@@ -1,0 +1,5 @@
+San Francisco open your Golden Gate You let no stranger wait outside your door San Francisco here is your wandering one Saying Ill wander no more Other places only make me love you best Tell me youre the heart of all the golden west San Francisco welcome me home
+
+40.1% of the panel space is open, not including restricted areas
+file left_panel.scr written with 160 Morse code slots and 0 restricted area cutouts
+file right_panel.scr written with 391 Morse code slots and 0 restricted area cutouts
